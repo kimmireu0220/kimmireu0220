@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kimmireu0220/kimmireu0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m Inha University student
 - 🌱 I’m currently learning React
 
