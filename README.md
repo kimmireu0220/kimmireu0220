@@ -1,4 +1,4 @@
-### Hi, I'm Coder Sam
+### 🔥 Hi, I'm Coder Sam 🔥 
 
 - 🌱 I’m Inha University student
 - 🌱 I’m currently learning React
