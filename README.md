@@ -1,7 +1,7 @@
 ### 🔥 Hi, I'm Coder Sam 🔥 
 
 - 🌱 I’m Inha University student
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & TypeScript
 
 <h2> My tech stack 📚 </h2>
 
