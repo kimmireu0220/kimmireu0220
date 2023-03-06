@@ -1,4 +1,4 @@
-### 🔥 Hi, I'm Coder Sam 🔥 
+### 🔥 Welcome to my GitHub 🔥 
 
 - 🌱 I’m Inha University student
 
