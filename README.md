@@ -12,4 +12,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-393939?style=for-the-badge&logo=solidity&logoColor=yellow)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmireu)](https://solved.ac/kimmireu/)
