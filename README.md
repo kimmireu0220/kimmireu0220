@@ -1,6 +1,7 @@
 ### 🔥 Welcome to my GitHub 🔥 
 
 - 🌱 I’m Inha University student
+- 🌱 Frontend Developer
 
 <h2> My tech stack 📚 </h2>
 
